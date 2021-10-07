@@ -1,0 +1,6 @@
+INSERT INTO STUDENT (name, cpf, rg, address, course) VALUES('Yuri Christian','00000000000','000000000','Qualquer um','SPI')
+INSERT INTO STUDENT (name, cpf, rg, address, course) VALUES('Ericleiton Macedo','00000000000','000000000','Qualquer um','SPI')
+INSERT INTO STUDENT (name, cpf, rg, address, course) VALUES('Najla Menezes','00000000000','000000000','Qualquer um','Recursos Humanos')
+INSERT INTO STUDENT (name, cpf, rg, address, course) VALUES('Romany','00000000000','000000000','Qualquer um','Engenharia')
+INSERT INTO STUDENT (name, cpf, rg, address, course) VALUES('Julio M.','00000000000','000000000','Qualquer um','Sistema de Informação')
+INSERT INTO STUDENT (name, cpf, rg, address, course) VALUES('Diego Christenson','00000000000','000000000','Qualquer um','DBA')
