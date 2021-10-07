@@ -10,7 +10,7 @@
 
 ## Importante
 
-> `Note: Projeto rodará na porta 8080`
+> `Note: Projeto rodará rodando na porta 8080`
 
 ## URLs e Bodys
 
@@ -33,8 +33,8 @@ http://localhost:8080/api/aluno/procurarAlunoPorCurso?course=SPI
 ----
 ```sh
 http://localhost:8080/api/aluno/criarAluno
-
-Body
+```
+```sh
 {
 	"name": "string",
 	"cpf": "string"
@@ -47,8 +47,8 @@ Body
 ----
 ```sh
 http://localhost:8080/api/aluno/editarAluno
-
-Body
+```
+```sh
 {
     "id": number,
 	"name": "string",
@@ -58,7 +58,6 @@ Body
 	"course": "string"
 }
 ```
-
 ##### DELETE - Deletar aluno
 ----
 ```sh
