@@ -10,7 +10,7 @@
 
 ## Importante
 
-> `Note: Projeto rodará rodando na porta 8080`
+> `Note: Projeto rodará na porta 8080`
 
 ## URLs e Bodys
 
